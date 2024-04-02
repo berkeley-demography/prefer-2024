@@ -4,3 +4,4 @@
 https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-demography%2Fprefer-2024&urlpath=lab%2Ftree%2Fprefer-2024%2F&branch=main)
 
 
+data location: /home/jovyan/demog-dataevent-readwrite
